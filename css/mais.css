@@ -1,3 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
 
-.superior
+.superior {
+    padding-inline: 24px;
+    padding-bottom: 32px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.first-p-superior {
+    font-weight: 700;
+    line-height: 20px;
+    color: #c0df34;
+    margin-bottom: 1rem;
+}
+
+.second-p-superior {
+    line-height: 26px;
+    color: #e5eff5;
+    font-size: 14px;
+}
+
+.left {
+    background-color: #2ab2af;
+    padding: 24px;
+}
+
+.first-p-left {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+}
+
+.second-p-left {
+    color: #fff;
+    opacity: 0.5;
+}
+
+.in-left {
+    display: flex;
+    border: 12px;
+    align-items: center;
+}
