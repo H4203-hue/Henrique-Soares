@@ -5,16 +5,15 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Karla' , sans-serif;
-    border: 0;
 }
 
 body {
-    background:var(--light-gray);
+    background: var(--Light-Gray);
 }
 
 main {
     padding-block: 4.5rem;
-    padding: 2rem;
+    padding-inline: 2rem;
 }
 
 h1 {
